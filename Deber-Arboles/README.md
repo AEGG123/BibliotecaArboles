@@ -1,4 +1,4 @@
-# Deber-Arboles-ApellidoNombre
+# Deber-Arboles-GuamanquispeEdwin
 
 Catálogo de la Biblioteca FISEI en Java: **árbol general n-ario** (Biblioteca → Áreas → Estantes)
 y **Árbol Binario de Búsqueda** por estante (libros ordenados por código).
